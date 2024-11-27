@@ -7,7 +7,7 @@
 <a href="https://dsc.gg/znrunz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nA6cpGmejn" height="30" width="40" /></a>
 </p>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1169234158833377331)](https://discord.com/users/1169234158833377331)
+[![Discord Presence](https://lanyard.cnrad.dev/api/844770923537367080)](https://discord.com/users/844770923537367080)
 ## Visitors:
 <p align="center">
   <img src="https://api.visitorbadge.io/api/VisitorHit?user=rifatgamingop&countColorcountColor&countColor=%23FF0000" alt="Profile Views">
