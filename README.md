@@ -1,13 +1,6 @@
 <h1 align="center">Hi 👋, I'm XENON</h1>
 <h3 align="center">I am a Python and HTML programmer.</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.youtube.com/@zenithuniondc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rifatgamingop" height="30" width="40" /></a>
-<a href="https://dsc.gg/znrunz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nA6cpGmejn" height="30" width="40" /></a>
-</p>
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/844770923537367080)](https://discord.com/users/844770923537367080)
 ## Visitors:
 <p align="center">
   <img src="https://api.visitorbadge.io/api/VisitorHit?user=rifatgamingop&countColorcountColor&countColor=%23FF0000" alt="Profile Views">
@@ -35,6 +28,14 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=rifatgamingop&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.youtube.com/@NotHerXenonYT" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rifatgamingop" height="30" width="40" /></a>
+<a href="https://dsc.gg/etontop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nA6cpGmejn" height="30" width="40" /></a>
+</p>
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/844770923537367080)](https://discord.com/users/844770923537367080)
 
 ---
 [![]([https://visitcount.itsvg.in/api?id=AxZeRxD&icon=0&color=0)](https://visitcount.itsvg.in](https://profile-counter.glitch.me/rifatgamingop/count.svg)https://profile-counter.glitch.me/rifatgamingop/count.svg)
